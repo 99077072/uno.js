@@ -1,0 +1,7 @@
+Uno is een kaartspel waarbij het doel is om 500 punten te halen1. De spelregels zijn12:
+* Iedere speler krijgt 7 kaarten.
+* De jongste speler begint.
+* De overgebleven kaarten worden in het midden gelegd, dit is de stok.
+* De bovenste kaart van de stok wordt open gelegd op de open stapel, dit bepaalt de start van het potje.
+* De speler die aan de beurt is, moet een kaart spelen die dezelfde kleur of hetzelfde getal heeft als de bovenste kaart van de open stapel. Als de speler geen geschikte kaart heeft, moet hij een kaart van de stok pakken.
+
